@@ -25,13 +25,13 @@
 <table>
   <tr>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swapnil-j-patil&show_icons=true&locale=en&layout=compact" alt="swapnil-j-patil" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=preetitaware04&show_icons=true&locale=en&layout=compact" alt="preetitaware04" />
     </td>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnil-j-patil&show_icons=true&locale=en" alt="swapnil-j-patil" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=preetitaware04&show_icons=true&locale=en" alt="preetitaware04" />
     </td>
     <td>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swapnil-j-patil&" alt="swapnil-j-patil" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=preetitaware04&" alt="preetitaware04" />
     </td>
   </tr>
 </table>
