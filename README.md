@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1QMykPocc6bd0SjY_bkNYjDoIf2m4jWPT/view?usp=drivesdk">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
-- 🌱 I’m currently learning **Jetpack compose and KMP.**
+- 🌱 I’m currently learning ****
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about ****
 
 - 📫 How to reach me **preetitaware2001@gmail.com**
 
