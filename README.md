@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&width=1000&height=70&lines=Hi%2C+I'm+Preeti%2C+your+friendly+neighborhood+developer!)](https://git.io/typing-svg)
 
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1QMykPocc6bd0SjY_bkNYjDoIf2m4jWPT/view?usp=drivesdk">
+<img align="right" alt="Coding" width="500" src="https://github.com/user-attachments/assets/752357af-7c35-4764-b38d-daa412e779b2" style="padding-bottom: 500px;">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
 - 🌱 I’m currently learning ****
